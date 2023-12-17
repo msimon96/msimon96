@@ -44,7 +44,7 @@
   - [GWAPT - Web Application Penetration Tester](https://www.credly.com/badges/d5fd767b-5e0d-4447-83b4-8fd5d50ec878/linked_in_profile)
   - GXPN - Exploit Researcher & Advanced Pentetration Tester - On the Docket for DEC 2023 - JAN 2024
 - <b>Infosec Institute</b>
-  - CCTHP - Certified Threat Hunting Professional
+  - CCTHP - Certified Cyber Threat Hunting Professional
 - <b>INE</b>
   - [eWPT - Web Application Penetration Tester](https://certs.ine.com/2f26b154-67e3-426d-b26c-d454469a8a98)
 - <b>Information Systems Audit and Control Association (ISACA)</b>
