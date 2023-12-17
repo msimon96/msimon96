@@ -4,6 +4,8 @@
 
 - <b>Red Team - Tools</b>
   - [RT-MASK - Red Team IPv4 - IPv6 Mask](https://github.com/msimon96/RT-MASK)
+- <b>Malware Analysis - Tools</b>
+  - [MA-HASHCHECK - Mandiant Advantage Hash Check - Find Malware by Malware Family Name](https://github.com/msimon96/MA-HASHCHECK)
 
 <h2>📱 Mobile App Development</h2>
 
