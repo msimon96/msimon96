@@ -26,13 +26,13 @@ Bachelor of Science - Network Operations and Security
 - <b>Certified Internet Web Professionals (CIW)</b>
   - SDA - Site Development Associate
 - <b>Computing Technology Industry Association (CompTIA)</b>
-  -[A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=DDCC8T0QF606V6SQ)
-  -[Network+](https://www.youracclaim.com/badges/1186d752-19bc-4114-9342-b1d210dde8ae/linked_in_profile)
-  -[Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=HVHC7TTJ83EQ1QG5)
-  -[Cloud Essentials](https://www.youracclaim.com/badges/c75b907d-91a5-4427-b33d-a47da9e9b276/linked_in_profile)
-  -[Project+](https://www.youracclaim.com/badges/52baa044-e2b5-45b4-b95f-85e68051f6b7/linked_in_profile)
-  -[CySA+ - Cybersecurity Analyst](https://www.youracclaim.com/badges/81321b66-670d-43b5-a957-aba36310473a/linked_in_profile)
-  -[CASP+ - Advanced Security Practioner](https://www.youracclaim.com/badges/9907ff0a-2c86-4f23-9b41-0e8f1124dc95/linked_in_profile)
+  - [A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=DDCC8T0QF606V6SQ)
+  - [Network+](https://www.youracclaim.com/badges/1186d752-19bc-4114-9342-b1d210dde8ae/linked_in_profile)
+  - [Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=HVHC7TTJ83EQ1QG5)
+  - [Cloud Essentials](https://www.youracclaim.com/badges/c75b907d-91a5-4427-b33d-a47da9e9b276/linked_in_profile)
+  - [Project+](https://www.youracclaim.com/badges/52baa044-e2b5-45b4-b95f-85e68051f6b7/linked_in_profile)
+  - [CySA+ - Cybersecurity Analyst](https://www.youracclaim.com/badges/81321b66-670d-43b5-a957-aba36310473a/linked_in_profile)
+  - [CASP+ - Advanced Security Practioner](https://www.youracclaim.com/badges/9907ff0a-2c86-4f23-9b41-0e8f1124dc95/linked_in_profile)
 - <b>EC-Council</b>
   - [CEH - Certified Ethical Hacker]()
   - [CNDA - Certified Network Defense Architect]()
@@ -50,7 +50,7 @@ Bachelor of Science - Network Operations and Security
 - <b>International Information System Security Certification Consortium (ISC2)</b>
   - [CISSP - Certified Information Systems Security Professional](https://www.credly.com/badges/ac402ad5-bfa2-43bc-8aaf-8dc85c42a8dc?source=linked_in_profile)
 - <b>Linux Professional Institute (LPI)</b>
-  - [Linux Essentials]
+  - [Linux Essentials](http://lpi.org/v/LPI000429032/2d2jnrqutd)
 - <b>Microsoft</b>
   - [MCP - Microsoft Certified Professional](https://www.youracclaim.com/badges/9bcd84b6-2d39-47d4-af95-9fb7f0ae4a6c/linked_in_profile)
 - <b>Offensive Security</b>
