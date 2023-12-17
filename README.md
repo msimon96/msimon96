@@ -10,6 +10,7 @@
 - [JymBee - An App to Connect Fitness Enthusiasts](https://join.jymbee.io)
 
 <h2>📜 Certifications</h2>
+
 - <b>Amazon Web Services (AWS)</b>
   - AWS Cloud Practitioner
 - <b>AXELOS Global Best Practice</b>
