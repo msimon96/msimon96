@@ -64,7 +64,7 @@
 - <b>Splunk</b>
   - [Splunk Core Cerfified User](https://www.credly.com/badges/6bc4ebc2-3e79-411e-85dd-827625391561?source=linked_in_profile)
 
-<h2> 🤳 Connect with me: </h2>
+<h2>🤳 Connect with me: </h2>
 
 [<img align="left" alt="MarioSimon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/mario-r-simon
