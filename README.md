@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Red Team - IPv4 to IPv6 Obfuscation</b>
+- <b>Red Team - Tools</b>
   - [RT-MASK - Red Team IPv4 - IPv6 Mask](https://github.com/msimon96/RT-MASK)
 
-<h2>📺 Mobile App Development</h2>
+<h2>📱 Mobile App Development</h2>
 
 - [JymBee - An App to Connect Fitness Enthusiasts](https://join.jymbee.io)
 
