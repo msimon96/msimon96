@@ -7,26 +7,29 @@
 
 <h2>📱 Mobile App Development</h2>
 
-- <b>JymBee - Fitness Community App</b>
-  - [JymBee - An App to Connect Fitness Enthusiasts](https://join.jymbee.io)
+- [JymBee - An App to Connect Fitness Enthusiasts](https://join.jymbee.io)
+
+<h2>📜 Certifications</h2>
+- <b>Amazon Web Services (AWS)</b>
+  - AWS Cloud Practitioner
+- <b>AXELOS Global Best Practice</b>
+- <b>Cisco</b>
+- <b>Certified Internet Web Professionals (CIW)</b>
+- <b>Computing Technology Industry Association (CompTIA)</b>
+- <b>EC-Council</b>
+- <b>Infosec Institute</b>
+- <b>INE</b>
+- <b>Information Systems Audit and Control Association (ISACA)</b>
+- <b>International Information System Security Certification Consortium (ISC2)</b>
+- <b>Linux Professional Institute (LPI)</b>
+- <b>Microsoft</b>
+- <b>Offensive Security</b>
+- <b>Project Management Institute (PMI)</b>
+- <b>Scrum Alliance</b>
+- <b>Splunk</b>
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MarioSimon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mario-r-simon
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
