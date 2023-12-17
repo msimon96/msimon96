@@ -10,10 +10,10 @@
 - [JymBee - An App to Connect Fitness Enthusiasts](https://join.jymbee.io)
 
 <h2>🎓 Education</h2>
-Master of Science - Cybersecurity and Information Assuarance
-Master of Business Administration
-Bachelor of Science - Network Operations and Security
 
+- Master of Science - Cybersecurity and Information Assuarance
+- Master of Business Administration
+- Bachelor of Science - Network Operations and Security
 
 <h2>📜 Certifications</h2>
 
