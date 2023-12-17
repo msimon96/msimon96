@@ -7,7 +7,8 @@
 
 <h2>📱 Mobile App Development</h2>
 
-- [JymBee - An App to Connect Fitness Enthusiasts](https://join.jymbee.io)
+- <b>JymBee - Fitness Community App</b>
+  - [JymBee - An App to Connect Fitness Enthusiasts](https://join.jymbee.io)
 
 <h2> 🤳 Connect with me:</h2>
 
