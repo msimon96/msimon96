@@ -1,5 +1,14 @@
 <h1>Hi, I'm Mario! <br/><a href="https://github.com/msimon96">[Programmer, Pentester],</a> <a href="https://www.linkedin.com/in/mario-r-simon/">[Cybersecurity Professional]</a></h1>
 
+```
+                                                                                                                              
+_|_|_|_|_|  _|    _|  _|_|_|_|        _|_|_|  _|      _|  _|_|_|    _|_|_|_|  _|_|_|        _|      _|    _|_|    _|      _|  
+    _|      _|    _|  _|            _|          _|  _|    _|    _|  _|        _|    _|      _|_|  _|_|  _|    _|  _|_|    _|  
+    _|      _|_|_|_|  _|_|_|        _|            _|      _|_|_|    _|_|_|    _|_|_|        _|  _|  _|  _|_|_|_|  _|  _|  _|  
+    _|      _|    _|  _|            _|            _|      _|    _|  _|        _|    _|      _|      _|  _|    _|  _|    _|_|  
+    _|      _|    _|  _|_|_|_|        _|_|_|      _|      _|_|_|    _|_|_|_|  _|    _|      _|      _|  _|    _|  _|      _| 
+```
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Red Team - Tools</b>
