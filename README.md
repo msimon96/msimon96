@@ -50,7 +50,7 @@ _|            _|      _|    _|  _|        _|    _|      _|      _|  _|    _|  _|
   - [GCIH - Certified Incident Handler](https://www.credly.com/badges/d5fd767b-5e0d-4447-83b4-8fd5d50ec878/public_url)
   - [GPEN - Penetration Tester](https://www.credly.com/badges/549a17ef-1c4e-4c0b-a713-cdecaee8f877/linked_in_profile)
   - [GWAPT - Web Application Penetration Tester](https://www.credly.com/badges/d5fd767b-5e0d-4447-83b4-8fd5d50ec878/linked_in_profile)
-  - GXPN - Exploit Researcher & Advanced Pentetration Tester - On the Docket for DEC 2023 - JAN 2024
+  - GXPN - Exploit Researcher & Advanced Pentetration Tester - On the Docket for FEB 2024
 - <b>Infosec Institute</b>
   - CCTHP - Certified Cyber Threat Hunting Professional
 - <b>INE</b>
