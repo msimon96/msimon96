@@ -21,7 +21,7 @@ _|            _|      _|    _|  _|        _|    _|      _|      _|  _|    _|  _|
 
 <h2>🎓 Education</h2>
 
-- Master of Science - Cybersecurity and Information Assuarance
+- Master of Science - Cybersecurity and Information Assurance
 - Master of Business Administration
 - Bachelor of Science - Network Operations and Security
 
