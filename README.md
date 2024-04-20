@@ -72,7 +72,7 @@ _|            _|      _|    _|  _|        _|    _|      _|      _|  _|    _|  _|
   - [CSM - Certified Scrum Master](https://bcert.me/skpszcwau)
 - <b>Splunk</b>
   - [Splunk Core Cerfified User](https://www.credly.com/badges/6bc4ebc2-3e79-411e-85dd-827625391561?source=linked_in_profile)
- - <b>Zero-Point Security</b>
+- <b>Zero-Point Security</b>
   - [Certified Red Team Operator](https://eu.badgr.com/public/assertions/0UqZrJCuQkGITpW03sSMig)
   - [Certified Red Team Lead](https://eu.badgr.com/public/assertions/lhVWKPFxShuw6V6MFuZFZA)
 
