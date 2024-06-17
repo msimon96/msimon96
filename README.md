@@ -21,6 +21,7 @@ _|            _|      _|    _|  _|        _|    _|      _|      _|  _|    _|  _|
 
 <h2>🎓 Education</h2>
 
+- Graduate Certificate - Penetration Testing & Ethical Hacking
 - Master of Science - Cybersecurity and Information Assurance
 - Master of Business Administration
 - Bachelor of Science - Network Operations and Security
@@ -51,7 +52,7 @@ _|            _|      _|    _|  _|        _|    _|      _|      _|  _|    _|  _|
   - [GPEN - Penetration Tester](https://www.credly.com/badges/549a17ef-1c4e-4c0b-a713-cdecaee8f877/public_url)
   - [GWAPT - Web Application Penetration Tester](https://www.credly.com/badges/d5fd767b-5e0d-4447-83b4-8fd5d50ec878/public_url)
   - [GRTP - Red Team Professional](https://www.credly.com/badges/5b1bd784-26c8-4cb9-bd7e-41a5d2048550/public_url)
-  - GXPN - Exploit Researcher & Advanced Pentetration Tester - On the Docket for MAY 2024
+  - GXPN - Exploit Researcher & Advanced Pentetration Tester - On the Docket for DEC 2024
 - <b>Infosec Institute</b>
   - CCTHP - Certified Cyber Threat Hunting Professional
 - <b>INE</b>
